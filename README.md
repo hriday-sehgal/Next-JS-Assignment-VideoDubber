@@ -13,7 +13,7 @@ A modern web application built with Next.js and Mantine UI that allows users to 
 - Real-time preview of formatted text
   
 ## Tech Stack  
-- **Framework**: Next.js 13+ (App Router)  
+- **Framework**: Next.js 14+ (App Router)  
 - **UI Library**: Mantine UI  
 - **Language**: TypeScript  
 - **Styling**: Tailwind CSS  
