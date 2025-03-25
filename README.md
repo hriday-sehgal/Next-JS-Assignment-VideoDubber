@@ -3,15 +3,14 @@
 A modern web application built with Next.js and Mantine UI that allows users to create colorful Discord messages using ANSI color codes.  
 
 ## Features  
-- 🎨 Real-time text formatting with ANSI color codes  
-- 🎯 Text color selection with hover tooltips  
-- 📝 Bold and underline text formatting  
-- 🌙 Discord-style dark theme  
-- 📋 Copy functionality for formatted text  
-- 🎨 Support for 8 foreground colors and 8 background colors  
-- 📱 Responsive design  
-- 🎨 Color selection interface with hover tooltips  
-- 📋 Real-time preview of formatted text
+- Real-time text formatting with ANSI color codes  
+- Text color selection with hover tooltips  
+- Bold and underline text formatting  
+- Discord-style dark theme  
+- Copy functionality for formatted text  
+- Support for 8 foreground colors and 8 background colors  
+- Responsive design  
+- Real-time preview of formatted text
   
 ## Tech Stack  
 - **Framework**: Next.js 13+ (App Router)  
@@ -26,21 +25,27 @@ A modern web application built with Next.js and Mantine UI that allows users to 
 - Node.js (v16 or higher)  
 - npm or yarn
   
-### Installation and Running  
+## Installation and Running  
 1. Clone the repository and install dependencies:
    
 ```
-git clone https://github.com/hriday-sehgal/Next-JS-Assignment-VideoDubber.git  
-cd Next-JS-Assignment-VideoDubber  
+git clone https://github.com/hriday-sehgal/Next-JS-Assignment-VideoDubber.git
+```
+``` 
+cd Next-JS-Assignment-VideoDubber
+```
+```
 npm install  
+```
+```
 npm run dev
 ```
 
 2. Open http://localhost:3000 in your browser to view the application.
 
-Usage
+## Usage:
 
-- Type your message in the text area
+- Type your message in the first text area
 
 - Select text to apply formatting
 
@@ -51,18 +56,6 @@ Usage
 - Click "Copy text as Discord formatted" to copy the formatted text
 
 - Paste the text into Discord to see the formatted message
-
-## Project Structure
-```
-├── app/                 # Next.js app directory  
-│   ├── layout.tsx      # Root layout  
-│   └── page.tsx        # Main page component  
-├── components/         # Reusable UI components  
-├── hooks/              # Custom React hooks  
-├── public/             # Static assets  
-├── styles/             # Global styles  
-└── theme.ts           # Theme configuration  
-```
 
 ## Live Demo
 
@@ -81,7 +74,7 @@ For any queries, reach out at
 
 ---
 
-**This project was created as part of the hiring process for the Full Stack Intern position at EcoSearch.**  
+**This project was created as part of the hiring process for the Web Development Intern position at VideoDubber.**  
 
 ## Copyright Notice
 
