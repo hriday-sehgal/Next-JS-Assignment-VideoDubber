@@ -1,4 +1,4 @@
-# Next.js Discord Text Generator  
+# Next.js Discord Colored Text Generator  
 
 A modern web application built with Next.js and Mantine UI that allows users to create colorful Discord messages using ANSI color codes.  
 
