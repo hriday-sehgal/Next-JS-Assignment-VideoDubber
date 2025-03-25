@@ -48,7 +48,6 @@ export default function Home() {
   const [formattedText, setFormattedText] = useState("Welcome to Rebane's Discord Colored Text Generator!")
   const textareaRef = useRef<HTMLTextAreaElement>(null)
 
-  // Add global styles to ensure proper styling on first load
   useEffect(() => {
     const style = document.createElement("style")
     style.textContent = `
