@@ -68,7 +68,7 @@ Usage
 
 The project is deployed on Vercel. You can access it here:  
 
-[Discord Colored Text Generator](https://ecosearchtaskhridaysehgal.netlify.app/)  
+[Discord Colored Text Generator](https://ecosearchtaskhridaysehgal.netlify.app/)
 
 ## Github Repo Link
 GitHub Repository: [https://github.com/hriday-sehgal/ecosearch-assignment](https://github.com/hriday-sehgal/Next-JS-Assignment-VideoDubber)
